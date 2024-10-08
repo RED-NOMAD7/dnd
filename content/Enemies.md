@@ -3,4 +3,5 @@ title:
 draft: 
 tags:
 ---
-[[MARANTA]][[MONSTERA]]
+[[MARANTA]]
+[[MONSTERA]]
