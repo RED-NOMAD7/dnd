@@ -18,4 +18,4 @@ After the failure of the last generation of armoured vehicles designated "SANSIV
 
 Its main weapon, the Plasma Accelerator Cannon, is capable of obliterating heavily fortified positions with concentrated bursts of plasma energy. For more precise combat, the dual-linked railguns offer high-speed kinetic projectiles that can punch through enemy armor with deadly accuracy.
 
-The monstera is a highly capable vehicle and lovechild of Vespera's weapons research head, Let Volir. Its appearance on the field immediately provides a threat and should be eliminated with the utmost priority [[MONSTERA]]
+The monstera is a highly capable vehicle and lovechild of Vespera's weapons research head, Let Volir. Its appearance on the field immediately provides a threat and should be eliminated with the utmost priority 
