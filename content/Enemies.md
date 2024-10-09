@@ -5,4 +5,6 @@ tags:
 ---
 [[MARANTA]]
 
-[[MONSTERA]]
+[[MONSTERA]] 
+
+[[STR3-ACER]]
