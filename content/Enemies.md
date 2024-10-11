@@ -7,4 +7,6 @@ tags:
 
 [[MONSTERA]] 
 
-[[STR3-ACER]]
+[[STR3-ACER]] 
+
+[[RSF sniper]]
