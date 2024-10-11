@@ -1,0 +1,16 @@
+---
+title: Hostile faction report-RSF
+draft: 
+tags:
+---
+681 years ago, 5 large corporations from across Amalthea had grown to *massive* proportions, granting them complete control over the vast majority of industries and markets. Vespera, the heavy industries and vehicle specialists. Alus, the secretive robotics experts. Blueseed, a comparatively young company, dedicated to manufacturing large ships such as cargo vessels and colony ships. The weapons manufacturer Ardeck, known for a vast array of personal and heavy weapons, and finally Lightsoul, a secretive and obscure corp that provides "Intelligent and clean assistance systems to their clients." Together they formed a web of lies and manipulation that allowed them to control whatever they wanted, political systems, manufacturing capabilities, how people lived their lives in the safe planets was dictated by these 5 corps. *Until* Ardeck was caught supplying radiological weapons to Shiro Kotobukiya, the leader of the Arcadian genocidal military group EXERGISIAN TIDE. 
+
+The arcadian crown was rightfully furious as shiro had been attempting to overthrow them with mindless acts of violence for Decades. They retaliated by obliterating every single Ardeck facility in the local solar system and leaked confidential info about the corps to several other worlds, all of which immediately began to shun Ardeck and its cohorts, seizing facilities and resources. on the verge of extinction, A meeting was called between the 5, something drastic needed to be done to save themselves, and luckily for them, they had the equipment to be a little, *unorthodox*. they subsumed several mercenary companies which had been loyal to the 5, their primary customers. the mercenaries were merged into a single outfit named the corporate recovery team. with this newfound strength, the 5 used their advanced tech to prop the CRT up, and recovered their assets, at any cost. 
+
+Their conquest ended where it began, Arcadia, where Ardeck sought to leave a scar. They launched a massive scale attack against the arcadian government and  crippled it, allowing Shiro to gain traction amongst the grieving arcadian people and depict the government as weak. The resulting civil war has been waging since and is only one example of the many disasters caused by the corporate flexing and greed of the 5.
+
+After the reclamation, it became clear that the CRT had outgrown its simple purpose of saving the corps. Vespera, seeking a bid of control over the galaxy, led the corps to come together as the Amalthean Industrial Collective, and sought a force that would ensure their name in the stars. So after absorbing more mercenaries and military teams, the Resistance Suppresion Fleet (RSF) was born. now they fight for more than to just ensure the corporations interests security against anything that would harm them. They seek power, and have become their own entity, even shadowing the AIC itself.
+
+You seek your own fortune, but every step will be haunted by the RSF's atrocities. Evade them or steal from them, but never underestimate them. The arcadians made the same mistake, and now their young princess Mia pays for it every day.
+
+The RSF gives *NO* mercy
