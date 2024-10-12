@@ -2,3 +2,5 @@
 title: Schism
 ---
 [[Enemies]]
+
+[[Factions]]
