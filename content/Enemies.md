@@ -11,4 +11,10 @@ tags:
 
 [[RSF sniper]] 
 
+[[RSF Elite soldier]] 
+
 [[RSF CommTech Specialist]]
+
+[[RSF Foot soldier]] 
+
+[[RSF Dropship Helianthus]]
