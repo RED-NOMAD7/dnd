@@ -5,7 +5,7 @@ tags:
 ---
 **The Maul**
 
-- _Large Humanoid (RSF Faction, Cyborg)_
+- Human (RSF Faction, Cyborg)_
 - _Armor Class_: 22 (Heavily Reinforced Cybernetic Armor)
 - _Hit Points_: 350 (30d10 + 180)
 - _Speed_: 30 ft.
