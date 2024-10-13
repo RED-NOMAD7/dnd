@@ -3,4 +3,6 @@ title: Schism
 ---
 [[Enemies]]
 
-[[Factions]]
+[[Factions]] 
+
+[Enemy VIPS]]
