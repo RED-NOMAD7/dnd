@@ -5,4 +5,4 @@ title: Schism
 
 [[Factions]] 
 
-[Enemy VIPS]]
+[[Enemy VIPS]]
