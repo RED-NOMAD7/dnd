@@ -3,13 +3,13 @@ title: Convergence Drone
 draft: 
 tags:
 ---
-Medium Construct, Bound to the Imperative
+**Medium Construct**, Bound to the Imperative
 
 **Armor Class:** 7 (Hardened Plating)  
 **Hit Points:** 35
 **Speed:** 30 ft.
 
-
+**Race**: Convergence
 
 **Languages:** Convergence Binary  
 
