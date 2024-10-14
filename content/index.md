@@ -1,5 +1,5 @@
 ---
-title: Schism
+title: Symbiosis
 ---
 [[Enemies]]
 
