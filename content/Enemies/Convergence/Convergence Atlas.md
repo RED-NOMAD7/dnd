@@ -3,9 +3,9 @@ title: Convergence Atlas
 draft: 
 tags:
 ---
-**Convergence Juggernaut**
+**Convergence atlas**
 
-_Large Construct, Lawful Neutral_
+_Large Construct, 
 
 **Armor Class:** 13(Heavy Plating)  
 **Hit Points:** 70
