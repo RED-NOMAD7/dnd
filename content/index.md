@@ -5,4 +5,4 @@ title: Symbiosis
 
 [[Factions]] 
 
-[[Enemy VIPS]]
+[[RSF VIPS]]
