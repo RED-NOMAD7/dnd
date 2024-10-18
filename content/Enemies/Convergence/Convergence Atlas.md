@@ -21,7 +21,7 @@ _Large Construct,
   _Hit:_ 18 damage. The Atlas fires a high-powered plasma projectile from its integrated arm cannon, capable of demolishing fortified targets from a distance.
 
 **Crushing Slam (Melee Weapon Attack):**  
-  _Hit:_ 21 bludgeoning damage. The Juggernaut brings down its massive arm with enough force to crush most enemies, leaving the ground scorched by its energy core.
+  _Hit:_ 21 bludgeoning damage. The Atlas brings down its massive arm with enough force to crush most enemies, leaving the ground scorched by its energy core.
 
 
 ---
