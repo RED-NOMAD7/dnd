@@ -11,14 +11,14 @@ _Large Construct,
 **Hit Points:** 70
 **Languages:** Convergence Binary  
 
-**Construct Nature:** The Convergence Juggernaut doesn’t require air, food, drink, or sleep.
+**Construct Nature:** The Convergence Atlas doesn’t require air, food, drink, or sleep.
 
 ---
 
 ### Actions:
 
 **Plasma Cannon (Ranged Weapon Attack):**  
-  _Hit:_ 18 damage. The Juggernaut fires a high-powered plasma projectile from its integrated arm cannon, capable of demolishing fortified targets from a distance.
+  _Hit:_ 18 damage. The Atlas fires a high-powered plasma projectile from its integrated arm cannon, capable of demolishing fortified targets from a distance.
 
 **Crushing Slam (Melee Weapon Attack):**  
   _Hit:_ 21 bludgeoning damage. The Juggernaut brings down its massive arm with enough force to crush most enemies, leaving the ground scorched by its energy core.
@@ -28,7 +28,7 @@ _Large Construct,
 
 ### Description:
 
-The **Convergence Atlas** stands as the ultimate symbol of brute force and impenetrable defense within the Convergence. Towering over most units at nearly 9 feet, it moves slowly but with undeniable power. Its white segmented armor is heavily reinforced with black struts, designed to withstand the most devastating of attacks. Pulsing red lights run along the seams of its plating, indicating the immense energy contained within its frame.
+The **Convergence Atlas** stands as the ultimate symbol of brute force and impenetrable defence within the Convergence. Towering over most units at nearly 9 feet, it moves slowly but with undeniable power. Its white segmented armour is heavily reinforced with black struts, designed to withstand the most devastating of attacks. Pulsing red lights run along the seams of its plating, indicating the immense energy contained within its frame.
 
 Unlike its lighter counterparts, the Atlas is built for direct confrontation. Equipped with a massive plasma cannon integrated into one arm and a reinforced hammer-like limb for melee combat, it can obliterate both infantry and armoured vehicles alike. Its angular head, with the iconic red visor strip, radiates cold focus as it locks onto targets with deadly precision.
 
