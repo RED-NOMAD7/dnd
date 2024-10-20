@@ -7,4 +7,6 @@ title: Symbiosis
 
 [[RSF VIPS]] 
 
-[[Vehicles]]
+[[Vehicles]] 
+
+[[Classes]]
