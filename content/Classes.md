@@ -23,4 +23,6 @@ tags:
 
 [[Tech-smith (Artificer)]] 
 
-[[Tech priest (cleric)]]
+[[Tech priest (cleric)]] 
+
+[[Celestial Channeler (sorcerer)]]
