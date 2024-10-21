@@ -16,3 +16,7 @@ tags:
 [[Infiltrator (Rogue)]] 
 
 [[Cyber berserker (barbarian)]]
+
+[[BioMechanic (Druid)]]
+
+[[Cyber-monk (it should be fucking obvious)]]
