@@ -7,4 +7,6 @@ tags:
 
 [[Nanoweaver (Warlock)]]
 
-[[Warlord (Fighter)]]
+[[Warlord (Fighter)]] 
+
+[[Composer (bard)]]
