@@ -20,3 +20,5 @@ tags:
 [[BioMechanic (Druid)]]
 
 [[Cyber-monk (it should be fucking obvious)]]
+
+[[Tech-smith (Artificer)]]
