@@ -11,4 +11,6 @@ tags:
 
 [[Composer (bard)]]
 
-[[Hunter-scout (ranger)]]
+[[Hunter-scout (ranger)]] 
+
+[[Infiltrator (Rogue)]]
