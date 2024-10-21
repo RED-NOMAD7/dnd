@@ -13,4 +13,6 @@ tags:
 
 [[Hunter-scout (ranger)]] 
 
-[[Infiltrator (Rogue)]]
+[[Infiltrator (Rogue)]] 
+
+[[Cyber berserker (barbarian)]]
