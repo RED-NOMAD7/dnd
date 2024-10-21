@@ -10,3 +10,5 @@ tags:
 [[Warlord (Fighter)]] 
 
 [[Composer (bard)]]
+
+[[Hunter-scout (ranger)]]
