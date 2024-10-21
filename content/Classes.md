@@ -21,4 +21,6 @@ tags:
 
 [[Cyber-monk (it should be fucking obvious)]]
 
-[[Tech-smith (Artificer)]]
+[[Tech-smith (Artificer)]] 
+
+[[Tech priest (cleric)]]
