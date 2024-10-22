@@ -26,3 +26,5 @@ tags:
 [[Tech priest (cleric)]] 
 
 [[Celestial Channeler (sorcerer)]]
+
+[[Technomancer (wizard)]]
