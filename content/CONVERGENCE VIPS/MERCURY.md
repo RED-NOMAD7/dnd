@@ -3,11 +3,11 @@ title: MERCURY
 draft: 
 tags:
 ---
-Here’s a D&D-style description for **Nephilim**, the first of the Convergence’s “god machines”:
+:
 
 ---
 
-**Nephilim, the Convergence God Machine**
+**Mercury, the Convergence God Machine**
 
 *Huge Construct, Directs the flow*
 
