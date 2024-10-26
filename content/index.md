@@ -13,4 +13,4 @@ title: Symbiosis
 
 [[Weapons]]
 
-[[Convergence VIPS]]
+[[CONVERGENCE VIPS]]
