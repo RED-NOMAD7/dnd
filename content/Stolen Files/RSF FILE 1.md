@@ -5,13 +5,13 @@ tags:
 ---
 ***We took a few Data Storage Devices from an RSF base a while back and have only just finished parsing them, we found this one weird file, Simply called "THE OBLIVION" but have absolutely no way of translating nor understanding what it means, here-***
 ______________________________________________________________________
-RSF MERIDIAN DATABASE CLASSIFIED DATA(CLASS X)
+RSF MERIDIAN DATABASE CLASSIFIED DATA(CLASS X),
 
-RECOVERED FROM ANOMOLOUS *NEW EXERGIS* WRECK "TSUBASA" 
+RECOVERED FROM ANOMOLOUS *NEW EXERGIS* WRECK "TSUBASA",
 
-CREW-789(ALL DECEASED)/VOID ENERGY PRESENT
+CREW-789(ALL DECEASED)/VOID ENERGY PRESENT,
 
-UNUSUAL CONVERGENCE RESISTANCE PRESENT(SUPPRESSED)
+UNUSUAL CONVERGENCE RESISTANCE PRESENT(SUPPRESSED),
 
 ***DO NOT DISTRIBUTE THIS FILE TO ANY NON RSF FORCES***
 
