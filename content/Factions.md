@@ -3,6 +3,6 @@ title:
 draft: 
 tags:
 ---
-[[RSF]] 
+[[content/Factions/RSF]] 
 
 [[Vespera]]
