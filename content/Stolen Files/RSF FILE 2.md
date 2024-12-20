@@ -3,7 +3,7 @@ title: RSF FILE 2
 draft: 
 tags:
 ---
-***After what happened 681 years back, the RSF have kept tabs on Arcadia and the other worlds orbiting Lethos. Cant say I blame them, the Arcadian war does seem to grow more each day. Be careful with anything related to arcadia, files like these remind me just how big of a tinderbox is waiting to be lit***
+***After what happened 681 years back, the RSF have kept tabs on Arcadia and the other worlds orbiting Lethos. Cant say I blame them, the Arcadian war does seem to grow more each day. Be careful with anything related to arcadia, files like these remind me just how big of a tinderbox is waiting to be lit-Alice*** 
 
 ***RSF STAR SYSTEM MONITORING REPORT*** 
 SUBJECT STAR SYSTEM: LEPHOR
